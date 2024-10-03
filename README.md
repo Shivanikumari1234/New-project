@@ -1,2 +1,2 @@
-# New-project 
+#  Spotify clone
 Spotify clone
